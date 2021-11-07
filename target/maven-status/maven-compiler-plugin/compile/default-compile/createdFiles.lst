@@ -1,0 +1,8 @@
+com\borneo\api\automation\framework\utils\PathUtils.class
+com\borneo\api\automation\framework\API_Client$REQUEST_TYPE.class
+com\borneo\api\automation\framework\fileHandlers\PropertyFile.class
+com\borneo\api\automation\framework\API_Client.class
+com\borneo\api\automation\framework\fileHandlers\ExcelInputReader.class
+com\borneo\api\automation\framework\API_Client$1.class
+com\borneo\api\automation\framework\HttpDeleteWithBody.class
+com\borneo\api\automation\framework\utils\ResponseValidator.class
